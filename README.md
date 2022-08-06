@@ -4,8 +4,6 @@
 
 本项目搜集的一些网络资料，为疫情结束或收复台湾之后的赴台旅行、探亲和购房而准备。
 
-如果你有更多相关资料，请不吝分享，以帮助中国大陆十四亿民众之中对台感兴趣者，感恩涕零！
-
 
 ## 中国台湾
 
@@ -63,7 +61,7 @@
 
 ## 贡献
 
-如果你发现搜集的资料中有错误或疏漏之处，可通过提交 [issue](https://github.com/Jinxiansen/AboutTaiwan/issues/new) 指出！
+如果你发现搜集的资料中有错误或疏漏之处，可提交 [Issue](https://github.com/Jinxiansen/AboutTaiwan/issues/new) 指出。
 
 如果你有更多相关资料，可通过提交 [PR](https://github.com/Jinxiansen/AboutTaiwan/compare) 以分享。
 
@@ -81,7 +79,6 @@
 
 - [政府資料開放平臺](https://data.gov.tw)
 - [外交部領事事務局](https://www.boca.gov.tw/mp-1.html)
-- [中華民國統計資訊網](https://www1.stat.gov.tw/mp.asp?mp=3)
 - [台旅會](https://www.tsta-bj.com)
 - [台湾旅游网](http://www.qutaiwan.com.cn)
 - [Klook客路](https://www.klook.com/zh-CN/coureg/14-taiwan-things-to-do/?spm=City.BreadCrumbs%3Aany%3A%3ABreadcrumb%3A&clickId=79cb42765a)
