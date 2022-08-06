@@ -61,9 +61,9 @@
 
 ## 贡献
 
-如果你发现搜集的资料中有错误或疏漏之处，可提交 [Issue](https://github.com/Jinxiansen/AboutTaiwan/issues/new) 指出。
+如果你发现搜集的资料中有错误或疏漏之处，可提交 [Issue](https://github.com/Jinxiansen/TaiwanGuide/issues/new) 指出。
 
-如果你有更多相关资料，可通过提交 [PR](https://github.com/Jinxiansen/AboutTaiwan/compare) 以分享。
+如果你有更多相关资料，可通过提交 [PR](https://github.com/Jinxiansen/TaiwanGuide/compare) 以分享。
 
 
 ## 免责声明
